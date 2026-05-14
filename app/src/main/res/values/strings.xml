@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Engenharia4</string>
+    <string name="string01">Tela 02</string>
+    <string name="open">Abrir menu lateral</string>
+    <string name="close">Fechar menu lateral</string>
 </resources>
